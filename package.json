@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "lib-flexible": "^0.3.2",
     "moment": "^2.24.0",
     "node-sass": "^4.12.0",
